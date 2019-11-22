@@ -1,0 +1,11 @@
+.
+..
+.git
+.gitignore
+example1.txt
+example2.txt
+example3.txt
+example4.txt
+firstScript.sh
+LICENSE
+README.md
